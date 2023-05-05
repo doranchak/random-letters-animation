@@ -2,7 +2,8 @@ React app that animates random movements of letters, used as visual aid in episo
 
 Almost completely generated via ChatGPT.  The prompt was:  `Create React app that animates random letters rearranging`
 
-Hosted version can be found here:  https://doranchak.github.io/random-letters-animation
+View the animation here:  https://doranchak.github.io/random-letters-animation
+Refresh page to repeat the animation.
 
 To run locally:
 
